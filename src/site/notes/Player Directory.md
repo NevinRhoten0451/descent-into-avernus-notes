@@ -7,15 +7,14 @@
 Welcome adventurers to our next campaign, and my last campaign running 5th Edition Dungeons & Dragons. I'm sure some of you might be surprised, considering I have a great desire to run Pathfinder 2nd Edition, but for a long time I have known there is one last story I want to in this system. Welcome to Descent Into Avernus. 
 
 ---
-<i><p style="text-align:center;"><mark style="background: #FF5582A6;">What Great and Terrible Diabolic Terrors Await?</mark></p></i>
-
+**<i><p style="text-align:center;"><mark style="background: #ADCCFFA6;">What Great and Terrible Diabolic Terrors Await?</mark></p></i>**
 ![Descent Into Avernus Cover Art.jpg](/img/user/z_Art/Descent%20Into%20Avernus%20Cover%20Art.jpg)
 
 ---
 ## Campaign Overview
 Descent Into Avernus is a story of epic and heroic fantasy where you will take on the role of an established adventurer in the city of Elturel within the world of the Forgotten Realms. Be you a denizen of the city or passing through, you already posses a great deal of power and renown in the adventuring world. Our campaign will begin at level 4 and end at level 13,  so 9 levels of progression in total. 
 
-All seems well and good within the holy city of Elturel, capital of the country of Elturgard, but when cataclysm strikes and the city seems doomed it will fall upon you to be its defenders, and perhaps even its saviors. Know this however, it won't be easy.
+All seems well and good within the holy city of Elturel, capital of the nation of Elturgard, but when cataclysm strikes and the city seems doomed it will fall upon you to be its defenders, and perhaps even its saviors. Know this however, it won't be easy.
 
 ## Campaign Themes
 While I cannot reveal too much for obvious risks of spoilers, consider the broad themes of this campaign when creating your character using the guidelines below. 
@@ -29,6 +28,11 @@ While I cannot reveal too much for obvious risks of spoilers, consider the broad
 # Character Creation
 We will be using the 2024 ruleset for character creation and I highly encourage you to choose options from the new rules, although it is not required. As you have all seen, I do not adhere strictly to the rules 100% of the time. As a dungeon master it is my job to create a fun, dramatic, and tense story driven game. Sometimes the rules can actually get in the way of this, and I believe I have proved to all of you that I have your best interests in mind, so when I change things or adjust things, please be patient and understand that Dungeons & Dragons is far from a perfect system. 
 
+---
+**<i><p style="text-align:center;"><mark style="background: #ADCCFFA6;">The Companion, Elturels Second Sun, Hangs High Over the Holy City.</mark></p></i>**
+![Elturel Companion.jpg](/img/user/z_Art/Elturel%20Companion.jpg)
+
+---
 ## Gameplay
 This adventure focuses heavily on combat and exploration in a dangerous, strange, and hostile realm beyond what your characters may understand. Focus on creating a character who is competent in battle first and foremost. As with all adventures there will still be plenty of social interactions and role play, but expect conflict to be resolved in battle, not in negotiation, although that doesn't mean you should never try, you might be surprised how far you can get with words. 
 
@@ -64,6 +68,7 @@ Below is a list of potential story concepts for each class within this campaign.
 
 I will give scores to these classes, subclasses, and story concepts based on how well I think they fit into the campaign. Don't treat these as gospel, but consider them when making your character. 
 
+
 > [!faq] 🔥🔥🔥 = Strongly Recommended 🔥🔥 = Recommended 🔥 = Not Recommended
 ### Barbarian 🔥🔥🔥
 Barbarian fits well with the heavy combat and fiery setting of this campaign. There will be plenty of things to be angry about and even more enemies to take it out on. Consider how your barbarian may fit into the city of Elturel and what drives them to defend it.
@@ -78,6 +83,7 @@ Barbarian fits well with the heavy combat and fiery setting of this campaign. Th
 	<mark style="background: #FFB86CA6;">The Rage of the Companion:</mark> Barbarians who walk the Path of the Zealot receive boons from a god or pantheon. These Barbarians experience their Rage as an ecstatic episode of divine union that infuses them with power. They are often allies to the priests and other followers of their god or pantheon. Potentially the most thematic and appropriate path for this campaign, the Path of the Zealot provides you with the opportunity to truly become the chosen champion of your god fighting for them in a place where everything seems against you. Perhaps you rose in the ranks of the Companions due to your unique relationship with your deity and now act as one of it's highest ranking members, knowing High Overseer Thavius Kreeg personally. When disaster strikes you will have plenty reason to rise to the defense of Elturel and it's citizens, and maybe the events of this campaign are the very source of your divine rage.
 ### Bard 🔥🔥
 While Bard is a favorite of mine, this adventure might prove a struggle in some ways for the class, but that is not to say it shouldn't be played. What you should know is that this adventure will offer you plenty of moments to bolster your allies in combat, but few to dazzle your enemies with great displays of grandeur. As noted before, keep in mind that most conflicts in this game will likely be resolved in battle, but high aptitude for negotiation could prove integral for key moments in the adventure.
+![Bard.png](/img/user/z_Art/Bard.png)
 - #### College of Dance 🔥🔥🔥
 	<mark style="background: #FFB86CA6;">The Troupe Leader:</mark>  Bards of the College of Dance know that the Words of Creation can’t be contained within speech or song; the words are uttered by the movements of celestial bodies and flow through the motions of the smallest creatures. These Bards practice a way of being in harmony with the whirling cosmos that emphasizes agility, speed, and grace. Perhaps you hail from the nearby city of Baldur's Gate. There you rose from the muck of the alleys using your footwork, becoming a renowned dancer within the cities taverns and clubs. Maybe you formed a troupe who have come to be your family. They trust you and follow you as the city brings adventure after adventure. One day you are called upon to travel to the holy city of Elturel for the celebration of Grand Duke Ulder Ravengards arrival for political negations with High Overseer Thavius Kreeg. Your troupe shall dance in his parade to dazzle the people, but when disaster strikes and you and your troupe are trapped in the city, you thrust yourself into danger to become an unlikely savior. 
 - #### College of Glamour 🔥
@@ -88,6 +94,7 @@ While Bard is a favorite of mine, this adventure might prove a struggle in some 
 	<mark style="background: #FFB86CA6;">The Voice of the Companion:</mark>  Bards of the College of Valor are daring storytellers whose tales preserve the memory of the great heroes of the past. These Bards sing the deeds of the mighty in vaulted halls or to crowds gathered around great bonfires. They travel to witness great events firsthand and to ensure that the memory of these events doesn’t pass away. With their songs, they inspire new generations to reach the same heights of accomplishment as the heroes of old. Potentially the most thematically appropriate, you are a legend in Elturel. A member of either the Hellriders or the Companions, you listened to tales of their heroism with glee and wonder. The old heroes are your idols and you tell their tales while striving to be like them. Some say the Companion speaks through you, but while only a metaphor, it still brings you great joy. When disaster strikes Elturel, it destroys a part of you. You cannot let the city fall, you cannot let the people suffer, you must become like the hero's of old, you must become legend. 
 ## Cleric 🔥🔥🔥
 Cleric is a strong pick in nearly any campaign, and their abilities will likely prove invaluable for an adventuring party in this game. Although the state religion of Elturel is that of Torm, and all swear oaths to the realm, the Companions themselves follow various different gods, including Torm, Lathander, Helm, and Tyr. If you are a cleric in Elturel, you likely follow one of these deities. I will attribute a different deity to each of the Domains below they best fit with. Please consider using this to tie your cleric directly into the city of Elturel and the divine struggle of this adventure. I also provide greater notes on these deities in the deities section of notes. I won't be providing story outlines for cleric, but consider how you came into your faith and it's personal meaning to you when creating your character.
+![Cleric.png](/img/user/z_Art/Cleric.png)
 - #### Life Domain 🔥🔥🔥
 	<mark style="background: #FFB86CA6;">The Scion of Life:</mark> The Life Domain focuses on the positive energy that helps sustain all life in the multiverse. Clerics who tap into this domain are masters of healing, using that life force to cure many hurts. Existence itself relies on the positive energy associated with this domain, so a Cleric of almost any religious tradition might choose it. This domain is particularly associated with agricultural deities, gods of healing or endurance, and gods of home and community. Religious orders of healing also seek the magic of this domain. Lathander, thought of by many to be an aspect of the ancient god Amaunator, possesses life in his divine portfolio, making him a good choice for a cleric of this domain. Lathander has a vast portfolio including birth, renewal, spring and youth, as well as athletics, self-perfection, vitality and creativity. A neutral good god of hope and beginnings, Lathander's name is invoked at the start of new endeavors, whether sealing a new deal, or setting out on a new journey.
 - #### Light Domain 🔥🔥🔥
@@ -95,29 +102,34 @@ Cleric is a strong pick in nearly any campaign, and their abilities will likely 
 - #### Trickery Domain 🔥
 	<mark style="background: #FFB86CA6;">The Scion of Trickery:</mark> The Trickery Domain offers magic of deception, illusion, and stealth. Clerics who wield this magic are a disruptive force in the world, puncturing pride, mocking tyrants, freeing captives, and flouting hollow traditions. They prefer subterfuge and pranks to direct confrontation. None of the gods followed devoutly in Elturel are gods of trickery, in fact, most such deities would probably be frowned upon in the holy city so focused on order and law. This domain may struggle in this adventure for many reason a bard focused on illusion magic or charming might, the enemies you are bound to face are particularly resilient against such magic.
 - #### War Domain 🔥🔥🔥
-	<mark style="background: #FFB86CA6;">The Scion of War:</mark> War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. Clerics who tap into the magic of the War Domain excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers. Gods of the War Domain watch over warriors and reward them for their great deeds. They include champions of honor and chivalry as well as gods of destruction and pillage. Other war gods take a more neutral stance, promoting war in all its manifestations and supporting warriors in any circumstance. Another potent domain for this campaign, the other three deities prominently worshipped in Elturel could fit a cleric of this domain very well. Torm and his faith are the state sponsored religion and most popular faith in the Companions. Perhaps his tenets inspired you or a paladin of his order saved your village as a child, sending you on the path tow heroism. Torm is the lawful good patron deity of paladins and the god of duty, loyalty, righteousness, obedience, law, and valor. By the late 15th century DR, Torm was the war god of courage and self-sacrifice. 
+	<mark style="background: #FFB86CA6;">The Scion of War:</mark> War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. Clerics who tap into the magic of the War Domain excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers. Gods of the War Domain watch over warriors and reward them for their great deeds. They include champions of honor and chivalry as well as gods of destruction and pillage. Other war gods take a more neutral stance, promoting war in all its manifestations and supporting warriors in any circumstance. Another potent domain for this campaign, the other three deities prominently worshipped in Elturel could fit a cleric of this domain very well. Torm and his faith are the state sponsored religion and most popular faith in the Companions. Perhaps his tenets inspired you or a paladin of his order saved your village as a child, sending you on the path of heroism. Torm is the lawful good patron deity of paladins and the god of duty, loyalty, righteousness, obedience, law, and valor. By the late 15th century DR, Torm was the war god of courage and self-sacrifice. 
 	
 	Tyr is the lawful good greater god of law and justice in the Faerûnian pantheon and leader of the coalition of deities known as the Triad. The titles of The God of Justice allegorized his nature to his followers. He bore his title of the Maimed God for his missing right hand, lost in an act of bravery and self-sacrifice and his title of the Even-Handed referred to his position as the god of justice, though was also seen as dark humor. The wounded eyes of the Blind Overlord meanwhile were seen as symbolic of "blind justice" and the cost that sometimes came with living a lawful life. His symbol however, balanced scales upon a warhammer, truly symbolized his nature; justice upheld with armed vigilance and benevolent might. 
 	
 	Helm is the lawful neutral Faerûnian god of guardians and protectors, worshiped by guards and paladins both. The Vigilant One has long been seen as a cold and focused deity who impartially took the role of defender, and sometimes enforcer, but his activities in the Time of Troubles caused the folk of Faerûn to view him differently. The Watcher is the epitome of the vigilant guardian and embodiment of the spirit of watchfulness, whether used for good or ill.
 ## Druid 🔥🔥
 
+![Druid.png](/img/user/z_Art/Druid.png)
+
 ## Fighter 🔥🔥🔥
 
+![Fighter.png](/img/user/z_Art/Fighter.png)
 ## Monk 🔥🔥
+![Monk.png](/img/user/z_Art/Monk.png)
 
 ## Paladin 🔥🔥🔥
 While I indeed have ideas for potential story hooks for paladin, I also know the one of you who has already locked in this class has a story in mind, so I am going to save myself the time. Know that paladin is an extremely potent class for this adventure and having one in the party is sure to make for some dramatic and engaging conflict. I would highly consider being an active member of the Order of the Companions and using the information provided in the deities section of notes to decide on a god to worship. 
-
+![Paladin.png](/img/user/z_Art/Paladin.png)
 ## Ranger 🔥🔥
-
+I'm not even gonna bother with this one. While 2024 Ranger isn't fundamentally broken, I know the class has enough of a bad reputation to make most players averse. Honestly, that is okay. I do believe there are better and more fun options for you all to pick from, and ranger isn't a particularly good pick for this adventure either. I'm still gonna put art here though cause it's cool.
+![Ranger.png](/img/user/z_Art/Ranger.png)
 ## Rouge 🔥🔥🔥
-
+![Rogue.png](/img/user/z_Art/Rogue.png)
 ## Sorcerer 🔥🔥🔥
-
+![Sorcerer.png](/img/user/z_Art/Sorcerer.png)
 ## Warlock 🔥🔥🔥
-
+![Warlock.png](/img/user/z_Art/Warlock.png)
 ## Wizard 🔥🔥🔥
-
+![Wizard.png](/img/user/z_Art/Wizard.png)
 
 > [!faq] Disclaimer: This adventure is a work of fiction aimed at providing you and your friends with many hours of fantastic entertainment. Although devils and the Nine Hells play prominent roles in this story, the evil they represent is meant to be fought and overcome. Wizards of the Coast fully endorses the kicking of evil’s butt. Let darkness fall and light prevail! We strongly advise that you not play this adventure backward, lest Asmodeus appear in a puff of smoke to talk politics, as archfiends are wont to do.
