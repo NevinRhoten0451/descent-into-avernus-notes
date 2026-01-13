@@ -3,7 +3,7 @@
 ---
 
 # Sea of Night Directory
-Welcome players to the directory for our one-shot adventure within the Sea of Night. All you need to know about the setting, tone, chracter creation, and more is contained within this directory, so I highly recommend you read through it thoroughly. I have tried my best to keep things as short and simple as I can. This one-shot has the potential to be expanded into a short campaign that I will run alongside Abomination Vaults. We will play one session of this adventure the final week of every month should that occur. Please consider this while creating your characters. I will be running this one-shot on **Jan 14th**. hhhh
+Welcome players to the directory for our one-shot adventure within the Sea of Night. All you need to know about the setting, tone, chracter creation, and more is contained within this directory, so I highly recommend you read through it thoroughly. I have tried my best to keep things as short and simple as I can. This one-shot has the potential to be expanded into a short campaign that I will run alongside Abomination Vaults. We will play one session of this adventure the final week of every month should that occur. Please consider this while creating your characters. I will be running this one-shot on **Jan 14th**.
 
 ---
 ![](/img/user/Z_Assests/Legacy.jpg)
