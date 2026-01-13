@@ -15,7 +15,7 @@ Welcome players to the directory for our one-shot adventure within the Sea of Ni
 The Sea of Night is a setting of my creation based heavily off two main sources, the Disney movie Treasure Planet released in 2002 (the year I was born), and the legacy Dungeons and Dragon setting of Spelljammer. Both of these sources are rooted in what I would call 'space fantasy'. Ships don't blast through a lifeless void at light speed, but *sail* through the stars on currents of magical energy. It is not technology that guides the people of the Sea of Night, but arcane magic and the endless desire to explore a vast space ocean filled with planets, nebulas, treasure, and all types of dangerous creatures. The ships that sail the Sea of Night are classic sailing vessels from the Age of Sail bolstered with magical engines that let them travel from star to star. The art presented in this directory should give you a good idea of the feeling and look of this universe, and watching Treasure Planet is practically a window into it, with some of the fundamental elements borrowed from that world.
 
 ---
-![](/img/user/Z_Assests/Space Pirates.jpg)
+![](/img/user/Z_Assests/Space%20Pirates.jpg)
 > [!poem] A pirate ship prowls the Sea of Night, hiding in a nebulous cloud.
 
 ---
@@ -24,7 +24,7 @@ The Sea of Night itself is the name given to a grand expanse of astral space by 
 The Etherium, known also as the Ether or Aether, is a layer of the Sea of Night that contains breathable air, life, and innumerable celestial bodies that seem to float among the stars like islands. Below the Etherium is the Void, a dark and airless layer. The bravest of sailors don suits to explore or mine rare materials from the region where the Etherium meets the Void, but none go further fore fear of the voidbracken. Sometimes these horrible, unknowable creatures stray from their deep lightless home and terrorize the Etherium above. Should you travel far above the Etherium a sudden and strong gravitational force will pull you back down. This region beyond is called the Heavenward, and is home to the thirteen constellations that make up the Cosmic Caravan, the predominant faith across the civilized stars. Some regions of the Etherium flow quickly enough in a certain direction to form magical currents of energy, and these Ether Currents are often used by ships to quickly travel in the direction the current is flowing, useful for trade, exploration, or moving warships.
 
 ---
-![](/img/user/Z_Assests/Spellship sails an Ether Current.jpg)
+![](/img/user/Z_Assests/Spellship%20sails%20an%20Ether%20Current.jpg)
 > [!poem] A lonely ship sails an ether current, dreaming of home.
 
 ---
@@ -32,7 +32,7 @@ The Etherium, known also as the Ether or Aether, is a layer of the Sea of Night 
 Spellships are magically engineered sailing vessels that are used to travel the Sea of Night. They most often resemble highly modified renaissance era ships from the age of exploration outfitted with steampunk esque magical equipment. There will be plenty of spellship art in this directory, so use it to fuel your imagination.
 
 ---
-![](/img/user/Z_Assests/Spellship Fleet.jpg)
+![](/img/user/Z_Assests/Spellship%20Fleet.jpg)
 > [!poem] A fleet of spellships arrive at a mining colony on the edge of the Etherium.
 
 
@@ -50,7 +50,7 @@ Since there is no gravity in the vast Etherium ships use gravity anchors to simu
 Zero rings, or z-rings, are circular mechanical clips sailors keep on their belts when traveling aboard a spellship. Spellships are designed with plenty of railings and grates where z-rings can be clipped. Z-rings keep sailors from floating off into the stars in the event of gravity anchor failure. Z-rings themselves are often decorated or personalized, with rare materials used to show status or affiliation.
 
 ---
-![](/img/user/Z_Assests/Ship Haul.png)
+![](/img/user/Z_Assests/Ship%20Haul.png)
 
 > [!poem] A hammerhead ship unloads its cargo at the docks of the Rock of Bral.
 
@@ -62,7 +62,7 @@ This is a one-shot, so I'm going to restrict myself when it comes to the amount 
 While many myths seek to explain why the etherium that makes the Sea of Night navigable exists, a prominent one claims eons ago a powerful god of air and exploration died, it's body vanishing and soul lingering as the etherium. Scholars do not know the true size of the Sea of Night or where the etheriums outer edges may be, some theorizing it may be infinite. 
 
 ---
-![](/img/user/Z_Assests/Sea of Night Map 1.jpg)
+![](/img/user/Z_Assests/Sea%20of%20Night%20Map%201.jpg)
 > [!poem] An incomplete map of the Sea of Night. This map should be used to fuel your imagination first and foremost, as there is far too much out there in the stars to be contained on one map. 
 
 
@@ -73,7 +73,7 @@ Old ruins and manuscripts tell of an ancient people who dwelled in the Sea of Ni
 
 ---
 
-![](/img/user/Z_Assests/Progenitor Ruins.jpg)
+![](/img/user/Z_Assests/Progenitor%20Ruins.jpg)
 > [!poem] A brave explorer delves into a Progenitor temple on a horrid and hostile world.
 
 ---
@@ -103,7 +103,7 @@ The Glimmersea is one of the most beautiful and tantalizing regions of the Sea o
 The Synlirii, or Voiceless Ones, emerged from the Glimmersea on fleets of biological ships known as nautiloids. They ravaged the frontier colonies of the Commonwealth in a wave of swift and sudden destruction never seen before. The Synlirii legions were led by Lord Syuul, and to this day their true goal is still unknown, although theories abound. An alliance of the Commonwealth, the astral elves of Arcadia, and the dwarves of the Eternal Bastion defended the stars from this looming threat, but it only seemed a matter of time before their victory was secured.
 
 ---
-![](/img/user/Z_Assests/Lord Syuul.jpg)
+![](/img/user/Z_Assests/Lord%20Syuul.jpg)
 > [!poem] Lord Syuul, commander of the Voiceless Ones.
 
 ---
@@ -113,7 +113,7 @@ Ten years into the war the front had been pushed back to Montressor, which had b
 A great purple streak of light crashed into Ceres III creating a void scar of volatile energy that spread from the impact zone. This marked the start of the Battle of Ceres III, as Synlirii nautiloids surrounded the planet and evacuation was ordered. The sky over Ceres III surged with war and the void scar grew larger by the hour, eventually releasing a terrible plague that tore through the entire planet. As the final ships left, the void scar collapsed in on itself, swallowing Ceres III. Just as the planet was lost, the Synlirii flagship, Lucent Edict, was dealt a decisive blow by the combined forces of the Commonwealth alliance. Wounded, but not destroyed, Lord Syuul and the Voiceless One's retreated back to the Glimmersea. 
 
 ---
-![](/img/user/Z_Assests/Ceres III.jpg)
+![](/img/user/Z_Assests/Ceres%20III.jpg)
 > [!poem] The void scar.
 
 
@@ -123,7 +123,7 @@ With a planet killer in the hands of the Voiceless Ones the post war Commonwealt
 On the outskirt border of the Commonwealth, where law and order are merely a suggestion, is the outpost known as the Rock of Bral. This asteroid city, somehow or another, has become your home. The Rock, as most prefer to call it, is a haven for all types of folk from the Sea of Night and a central trade hub.
 
 ---
-![](/img/user/Z_Assests/Docks of The Rock.jpg)
+![](/img/user/Z_Assests/Docks%20of%20The%20Rock.jpg)
 > [!poem] A Royal Navy fleet arrives at the docks of the Rock, drawing many eyes.
 
 The Rock traces its roots back to roughly 170 years ago, when the eponymous Captain Bral established a pirate refuge here. The asteroid became a haven for thieves and cutthroats, and among them a few merchants and entrepreneurs set up shop. Even in a climate of lawlessness, the place evolved into something resembling a settlement of citizens. After Captain Bral’s death, the burgeoning city became known as Bral, in his honor, and its location as the Rock of Bral. For the next several decades, various pirate captains held sway in the city, but none of them demonstrated an interest in trying to take over sole leadership.
@@ -176,7 +176,7 @@ You can play a hippotam character by selecting the Awakened Animal ancestry.
 
 
 ---
-![](/img/user/Z_Assests/Giff PC.png)
+![](/img/user/Z_Assests/Giff%20PC.png)
 
 > [!poem] A hippotam of the Commonwealth Royal Navy.
 
@@ -188,7 +188,7 @@ The gith are a race that have had to fight for survival every step of the way. T
 You can play a gith character by selecting the Fleshwarp ancestry.
 
 ---
-![](/img/user/Z_Assests/Gith Pirate.jpg)
+![](/img/user/Z_Assests/Gith%20Pirate.jpg)
 > [!poem] A gith pirate captain spots his next victim.
 
 
