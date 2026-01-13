@@ -38,7 +38,7 @@ Spellships are magically engineered sailing vessels that are used to travel the 
 
 ---
 ### Spellship Components
-In this game there will be no *hard* rules regarding spellships and spellship combat, as you will read in further detail later on, but it will still help to know some of the main components of most spellships before we play. Any good captain knows to keep their ship in good shape, as you depend on it to maneuver through the stars.
+In this game there will be no *hard* rules regarding spellships and spellship combat but it will still help to know some of the main components of most spellships before we play. Any good captain knows to keep their ship in good shape, as you depend on it to maneuver through the stars.
 #### Arcane Engine 
 Magical energy permeates the Etherium and is harnessed by the most important part of a spellship, the arcane engine. the arcane engine is the core of the ship, pulling in, refining, and then channeling the ambient magical energy of the Etherium into propulsion. A mess of pipes, dials, gears, levers, and magical lights, the arcane engine is the heart of the ship beating with life. Wires and steaming pipework are the ships veins, running through the decks and claustrophobic corridors, the engine pumping its energy to every part of the vessel that needs it. Arcane engines are housed below deck in protected chambers where ship engineers and arcanists monitor their stability. They are known to stall, and should a ships drive be destroyed or sabotaged, you can only hope help comes quick, if at all.
 #### Beacons
