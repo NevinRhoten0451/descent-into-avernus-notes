@@ -162,6 +162,8 @@ The Cosmic Caravan is a zodiac containing thirteen constellations that is worshi
 
 ## Character Creation
 Using Wanderer's Guide you can create your character for this one-shot. I may reach out to some of you to help create your character directly. When you create your character on Wanderer's Guide make sure to **Enable All** of the **Pathfinder Core** sources. Also, under **Variant rules**, enable **Automatic Bonus Progression**. Below is are three unique ancestries available in this adventure. 
+
+- [Wanderer's Guide Link](https://wanderersguide.app/)
 ### Automaton
 The spark of life is a strange thing indeed, a spark that can be harnessed, focused, manufactured, and created. None know where the many sentient automatons of the Sea of Night hail from, not even themselves, but they are not uncommon sights in the cities of the stars. Some believe they are creations of the Progenitors that were somehow given new life, others posit they may be ancient creations of reclusive gnomes, seeing as many automatons are designed in their image, and still many claim automatons are simply machines that were gifted life when the etherium was born.
 
