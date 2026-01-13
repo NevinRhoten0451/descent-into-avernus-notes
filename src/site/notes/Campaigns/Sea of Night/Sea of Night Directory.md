@@ -126,6 +126,8 @@ On the outskirt border of the Commonwealth, where law and order are merely a sug
 ![](/img/user/Z_Assests/Docks%20of%20The%20Rock.jpg)
 > [!poem] A Royal Navy fleet arrives at the docks of the Rock, drawing many eyes.
 
+---
+
 The Rock traces its roots back to roughly 170 years ago, when the eponymous Captain Bral established a pirate refuge here. The asteroid became a haven for thieves and cutthroats, and among them a few merchants and entrepreneurs set up shop. Even in a climate of lawlessness, the place evolved into something resembling a settlement of citizens. After Captain Bral’s death, the burgeoning city became known as Bral, in his honor, and its location as the Rock of Bral. For the next several decades, various pirate captains held sway in the city, but none of them demonstrated an interest in trying to take over sole leadership.
 
 Eventually, the merchants and tavernkeepers who made their livings on the Rock became as numerous as the pirates and brigands who sought refuge there. One of the pirate captains, Cozar, sensed that times were changing on the Rock—that the days of lawlessness were coming to an end. Through a series of strategic alliances and shrewd business deals, he consolidated his political power and dubbed himself Prince Cozar, the Rock’s first overlord. Under Prince Cozar’s long reign, the city evolved from a pirate hideout into a major city, attracting profit-seekers, adventurers, and other more respectable types.
