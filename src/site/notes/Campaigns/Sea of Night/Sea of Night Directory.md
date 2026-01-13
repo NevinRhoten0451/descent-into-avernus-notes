@@ -161,7 +161,7 @@ The Cosmic Caravan is a zodiac containing thirteen constellations that is worshi
 - The Follower: The Follower travels behind the Caravan and can only be seen from the darkest regions of the Sea of Night. He is a veiled figure that represents what awaits all at the end of our journeys: Death.
 
 ## Character Creation
-Using Wanderer's Guide you can create your character for this one-shot. I may reach out to some of you to help create your character directly. When you create your character on Wanderer's Guide make sure to **Enable All** of the **Pathfinder Core** sources. Also, under **Variant rules**, enable **Automatic Bonus Progression**. Below is are three unique ancestries available in this adventure. 
+Using Wanderer's Guide you can create your level 1 character for this one-shot. I may reach out to some of you to help create your character directly. When you create your character on Wanderer's Guide make sure to **Enable All** of the **Pathfinder Core** sources. Also, under **Variant rules**, enable **Automatic Bonus Progression**. Below is are three unique ancestries available in this adventure. 
 
 - [Wanderer's Guide Link](https://wanderersguide.app/)
 ### Automaton
